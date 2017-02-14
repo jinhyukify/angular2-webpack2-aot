@@ -21,3 +21,9 @@ npm run build
 
 # build angular App with AOT compile
 npm run build:aot
+
+# If you do not have webpack module globally run this first
+npm install -g webpack@^2.2.1
+
+# If you do not have rimrak module globally run this first
+npm install -g rimraf
