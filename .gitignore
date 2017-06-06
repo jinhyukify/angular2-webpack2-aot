@@ -1,3 +1,4 @@
 node_modules/
 npm
 webpack-dev-server
+dist/
